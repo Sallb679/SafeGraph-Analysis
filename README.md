@@ -48,4 +48,3 @@ This project analyzes weekly customer visit patterns for a restaurant chain and 
 - matplotlib  
 - seaborn  
 - tabulate  
-
