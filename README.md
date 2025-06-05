@@ -1,4 +1,3 @@
-# SafeGraph-Analysis
 # Restaurant Chain Data Analysis Project
 
 ## Project Overview
